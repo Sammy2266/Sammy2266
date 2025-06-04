@@ -54,6 +54,8 @@ I'm a **Software Developer** specializing in **Data Science** and **Medical Info
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-FCC624?style=for-the-badge&logo=Netlify&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-FCC624?style=for-the-badge&logo=Vercel&logoColor=black)
 
 ## 📊 GitHub Stats
 
