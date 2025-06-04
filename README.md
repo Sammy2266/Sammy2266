@@ -32,7 +32,8 @@ I'm a **Software Developer** specializing in **Data Science** and **Medical Info
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Web Development
@@ -66,12 +67,6 @@ I'm a **Software Developer** specializing in **Data Science** and **Medical Info
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sammy2266&theme=radical&hide_border=true&background=0D1117&stroke=E59F32&ring=E59F32&fire=E59F32&currStreakLabel=E59F32" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sammy2266&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ## 🎯 Areas of Expertise
