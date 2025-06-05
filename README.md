@@ -1,115 +1,125 @@
 <a href="https://app.daily.dev/samuelmacharia93"><img src="https://api.daily.dev/devcards/v2/iowNEcsKvolgKWHKIRABu.png?r=b3d&type=default" width="356" alt="Samuel Macharia's Dev Card"/></a>
 <P>
-# 👋 Hi, I'm Samuel Muchai Macharia
+# Hi there! 👋 I'm Samuel Muchai Macharia
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=E59F32&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Science+Enthusiast;Medical+Informatics+Specialist;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E59F32&center=true&vCenter=true&width=435&lines=Software+Developer;Data+Science+Enthusiast;Medical+Informatics+Specialist;Healthcare+Tech+Innovator" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a **Software Developer** specializing in **Data Science** and **Medical Informatics**. I'm passionate about leveraging technology to solve complex problems, particularly in healthcare and data-driven applications.
+I'm a passionate software developer with a strong focus on **Data Science** and **Medical Informatics**. Currently pursuing my BSc. in Health Records and Informatics at Jomo Kenyatta University of Agriculture and Technology (2022-2026). I thrive on solving complex problems, analyzing data, and leveraging technology to drive insights and innovation, particularly at the intersection of healthcare and technology.
 
-- 🔭 I'm currently working on projects that bridge technology and healthcare
-- 🌱 I'm always learning new technologies in data science and software development
-- 💡 I love turning complex data into actionable insights
-- 🎯 Goal: Contributing to innovative solutions in medical informatics
-- 📧 How to reach me: **sammymuchai44@gmail.com**
-- 📱 Phone: **+254714552335**
+- 🔭 Currently working on healthcare technology solutions
+- 🌱 Learning **Solidity** and expanding my blockchain knowledge
+- 💡 Passionate about improving healthcare data systems and streamlining operations
+- 🎯 Goal: To bridge the gap between technology and healthcare through innovative solutions
+
+## 💼 Professional Experience
+
+**Health Informatics Intern** | *Naivasha County Referral Hospital* | *May 2024 - July 2024*
+- Gained hands-on experience in health information management and electronic health records (EHR)
+- Coded and indexed diseases according to International Classification of Diseases (ICD-11)
+- Managed data entry and analysis for health information systems (HIS)
+- Compiled monthly reports and uploaded them to Kenya Health Information System (KHIS)
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-4479A1?style=for-the-badge&logo=C&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Solidity](https://img.shields.io/badge/SOlidity-4479A1?style=for-the-badge&logo=Solidity&logoColor=white)
-
-### Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Specializations
+- 🏥 **Healthcare**: Medical Informatics, Health Records Management, Medical Coding & Billing, ICD-11 Classification
+- 📊 **Data Science**: Data Analysis, Data Visualization, Statistical Modeling, Database Management
+- 🔒 **Other**: Computer Networking, System Security, Linux Operations, Ethical Hacking
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-FCC624?style=for-the-badge&logo=Netlify&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-FCC624?style=for-the-badge&logo=Vercel&logoColor=black)
+## 🎯 Featured Projects
+
+### 🏥 Healthcare Technology
+
+#### [FindHosi - Hospital Finder](https://findhosi2.vercel.app/)
+A user-friendly web application designed to assist users in locating nearby hospitals using their current location, displaying them on an interactive map.
+- **Key Features**: Location-based hospital search, Geolocation integration, Interactive map display
+- **Impact**: Helps users quickly find medical assistance when needed
+
+#### [AfiaTrack - Health Management](https://afiatrack.vercel.app/)
+A comprehensive health management application for monitoring vital signs, managing appointments and medications.
+- **Key Features**: Health metrics dashboard, Appointment scheduling, Medication management system
+- **Impact**: Empowers users to take control of their health data
+
+### 🎬 Web Applications
+
+#### [Phi5ive - Movie Trailer Showcase](https://phifive.vercel.app/)
+A web-based platform displaying the latest movies with trailer viewing capabilities.
+- **Key Features**: Movie browsing, Trailer viewing, Search functionality, Responsive design
+- **Technologies**: JavaScript, API Integration, Responsive Web Design
+
+### 🔧 Utility Tools
+
+#### [Password Generator](https://passwordmonster.vercel.app/)
+A secure password generator for creating strong, randomized passwords.
+
+#### [Random Meal Generator](https://mealgene.vercel.app/)
+Web app that fetches random meal recipes from The Meal DB API with cooking tutorials.
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sammy2266&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&icon_color=E59F32" alt="Samuel's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sammy2266&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy2266&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy2266&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sammy2266&theme=radical" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sammy2266&theme=radical&hide_border=true&background=0D1117&stroke=E59F32&ring=E59F32&fire=E59F32&currStreakLabel=E59F32" alt="GitHub Streak" />
-</div>
+## 🏆 Achievements & Recognition
 
-## 🎯 Areas of Expertise
+- **Professional Recommendation**: Recognized for commitment, hard work, determination, and excellent collaboration skills during hospital internship
+- **Healthcare Innovation**: Developed multiple healthcare-focused applications improving accessibility to medical services
+- **Academic Excellence**: Pursuing specialized degree in Health Records and Informatics
 
-- **Medical Informatics**: Electronic Health Records (EHR), Healthcare Data Analytics
-- **Data Science**: Machine Learning, Statistical Analysis, Data Visualization
-- **Web Development**: Full-stack applications with modern frameworks
-- **Database Design**: Efficient data modeling and optimization
-- **Healthcare Technology**: HIPAA-compliant solutions and medical data systems
-
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sammymacharia.netlify.app/)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sammy2266)
-[![](https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ryzen_rider)
-[![](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sammy.defi)
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammymuchai44@gmail.com)
-[![](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me//+254714552335)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sammymacharia.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sammy2266)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ryzen_rider)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammymuchai44@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254714552335)
 
 </div>
 
-## 📈 Activity Graph
+## 💭 Philosophy
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sammy2266&theme=react-dark&bg_color=0D1117&color=E59F32&line=E59F32&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
+> "Technology should serve humanity, especially in healthcare where it can save lives and improve quality of life. I'm committed to building solutions that make healthcare more accessible, efficient, and data-driven."
 
-## 💭 Quote
+## 📈 What I'm Currently Working On
 
-> "Data is the new oil, but like oil, it has to be refined to be useful." - Clive Humby
+- 🔬 Advanced data analytics for healthcare systems
+- 🌐 Blockchain applications in medical records management
+- 📱 Mobile health applications for remote patient monitoring
+- 🤖 AI-powered diagnostic assistance tools
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sammy2266&color=E59F32&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sammy2266&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
-
-**Thank you for visiting my profile! Let's build something amazing together! 🚀**
-
+  <i>⭐️ From <a href="https://github.com/Sammy2266">Samuel Muchai Macharia</a> - Building the future of healthcare technology, one line of code at a time! ⭐️</i>
 </div>
+
