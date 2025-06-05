@@ -84,11 +84,11 @@ I'm a **Software Developer** specializing in **Data Science** and **Medical Info
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sammymacharia.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sammy2266)
-[![X](https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ryzen_rider)
-[![Insta](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sammy.defi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammymuchai44@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me//+254714552335)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sammy2266)
+[![](https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ryzen_rider)
+[![](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sammy.defi)
+[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammymuchai44@gmail.com)
+[![](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me//+254714552335)
 
 </div>
 
