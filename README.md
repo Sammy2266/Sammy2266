@@ -43,13 +43,18 @@ timeline
               : BSc. Health Records & Informatics
               : Jomo Kenyatta University (JKUAT)
 
-    2024      : Professional Internship
+    2024      : First Attachment
               : Health Informatics Intern
               : Naivasha County Referral Hospital
               : Real-world healthcare experience
 
-    2025      : Final Year & Beyond
-              : Graduation (Expected 2026)
+    2025      : Second Attachment
+              : Health Informatics Intern
+              : Naivasha Subcounty Hospital
+              : Advanced healthcare systems
+
+    2026      : Graduation & Career Launch
+              : BSc. Health Records & Informatics
               : Healthcare Tech Innovation
               : Building Future Solutions
 ```
@@ -60,6 +65,7 @@ timeline
 
 | 🎯 **Experience** | 📅 **Duration** | 🏢 **Organization** | 💡 **Focus Area** |
 |:---:|:---:|:---:|:---:|
+| 🏥 **Health Informatics Intern** | May - Aug 2025 | Naivasha Subcounty Hospital | Advanced Healthcare Systems |
 | 🏥 **Health Informatics Intern** | May - July 2024 | Naivasha County Referral Hospital | Healthcare Data Systems |
 | 🎓 **BSc. Student** | 2022 - 2026 | JKUAT | Health Records & Informatics |
 | 🏫 **KCSE Graduate** | 2018 - 2022 | Kanjuri High School | Science Foundation |
@@ -173,13 +179,13 @@ timeline
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sammy2266&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&icon_color=E59F32&text_color=ffffff" alt="Samuel's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sammy2266&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&icon_color=E59F32&text_color=ffffff&count_private=true&include_all_commits=true" alt="Samuel's GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sammy2266&theme=radical&hide_border=true&background=0D1117&stroke=E59F32&ring=E59F32&fire=E59F32&currStreakLabel=E59F32" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy2266&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&text_color=ffffff" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sammy2266&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&icon_color=E59F32&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=Detailed%20GitHub%20Stats" alt="Detailed GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy2266&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&text_color=ffffff&count_private=true&include_all_commits=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sammy2266&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&icon_color=E59F32&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=Complete%20Contribution%20Overview" alt="Complete GitHub Overview" />
 </div>
 
 ## 🎯 Areas of Expertise
@@ -321,14 +327,16 @@ graph LR
 
 </div>
 
-## 🚀 2025 Goals
+## 🚀 2025-2026 Goals
 
-- [ ] 🎓 Complete BSc. in Health Records and Informatics
-- [ ] 🏥 Launch major healthcare tech project
-- [ ] 📊 Master advanced ML algorithms
+- [ ] 🏥 Complete second attachment at Naivasha Subcounty Hospital (May-Aug 2025)
+- [ ] 🎓 Graduate with BSc. in Health Records and Informatics (2026)
+- [ ] 📊 Master advanced ML algorithms for healthcare applications
 - [ ] 🌐 Contribute to open-source healthcare projects
-- [ ] 📱 Develop mobile health applications
+- [ ] 📱 Develop comprehensive mobile health applications
 - [ ] 🏆 Obtain AWS/Google Cloud certifications
+- [ ] 🚀 Launch major healthcare tech startup or project
+- [ ] 📝 Complete final year research project in medical informatics
 
 ---
 
