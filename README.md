@@ -226,7 +226,7 @@ timeline
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 #### [🏥 FindHosi - Hospital Finder](https://findhosi2.vercel.app/)
 **Location-based healthcare discovery platform**
@@ -236,7 +236,7 @@ timeline
 - 📱 Mobile-responsive design
 
 </td>
-<td width="50%">
+<td width="33%">
 
 #### [💊 AfiaTrack - Health Management](https://afiatrack.vercel.app/)
 **Comprehensive personal health dashboard**
@@ -246,7 +246,7 @@ timeline
 - 📈 Health analytics & insights
 
 </td>
-<td width="50%">
+<td width="33%">
 
 #### [AI powered Clinical Decision Support System](https://cdss1.vercel.app/)
 **Comprehensive clinical decision support system**
