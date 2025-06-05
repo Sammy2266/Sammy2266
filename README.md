@@ -50,7 +50,7 @@ timeline
 
     2025      : Second Attachment
               : Health Informatics Intern
-              : Naivasha Subcounty Hospital
+              : Naivasha County Refferal Hospital
               : Advanced healthcare systems
 
     2026      : Graduation & Career Launch
