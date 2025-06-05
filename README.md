@@ -30,27 +30,76 @@ I'm a **Software Developer** specializing in **Data Science** and **Medical Info
 ## 💼 Professional Journey
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sammy2266&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32" alt="Coding Time" />
+
+```mermaid
+timeline
+    title My Professional & Academic Journey
+
+    2018-2022 : Kanjuri High School
+              : Kenya Certificate of Secondary Education
+              : Foundation in Sciences & Mathematics
+
+    2022      : Started University
+              : BSc. Health Records & Informatics
+              : Jomo Kenyatta University (JKUAT)
+
+    2024      : Professional Internship
+              : Health Informatics Intern
+              : Naivasha County Referral Hospital
+              : Real-world healthcare experience
+
+    2025      : Final Year & Beyond
+              : Graduation (Expected 2026)
+              : Healthcare Tech Innovation
+              : Building Future Solutions
+```
+
 </div>
 
-### 🏥 Health Informatics Intern | *Naivasha County Referral Hospital*
-**May 2024 - July 2024**
+<div align="center">
+
+| 🎯 **Experience** | 📅 **Duration** | 🏢 **Organization** | 💡 **Focus Area** |
+|:---:|:---:|:---:|:---:|
+| 🏥 **Health Informatics Intern** | May - July 2024 | Naivasha County Referral Hospital | Healthcare Data Systems |
+| 🎓 **BSc. Student** | 2022 - 2026 | JKUAT | Health Records & Informatics |
+| 🏫 **KCSE Graduate** | 2018 - 2022 | Kanjuri High School | Science Foundation |
+
+</div>
+
+### 🏥 **Featured Experience: Health Informatics Intern**
+*Naivasha County Referral Hospital • May 2024 - July 2024*
+
+<div align="center">
+
+| **Key Achievements** | **Technical Skills Gained** | **Impact Created** |
+|:---:|:---:|:---:|
+| 📋 Patient Data Management | 🏥 EHR/EMR Systems | 📊 Improved Data Accuracy |
+| 🏷️ ICD-11 Disease Coding | 📈 KHIS Reporting | 🔧 System Optimization |
+| 📊 Healthcare Analytics | 💻 IT Support | 🌐 Digital Health Implementation |
+
+</div>
 
 <details>
-<summary>🔍 Click to expand experience details</summary>
+<summary>🔍 <strong>Click to expand detailed experience breakdown</strong></summary>
 
-**Key Responsibilities:**
-- 📋 Patient registration and admission procedures
-- 🏷️ Disease coding using ICD-11 classification system
-- 📊 Health data analysis and electronic health records management
-- 📈 Monthly reporting to Kenya Health Information System (KHIS)
-- 🔧 System troubleshooting and IT support
+**🎯 Core Responsibilities:**
+- 📋 **Patient Registration**: Streamlined admission procedures and patient data entry
+- 🏷️ **Medical Coding**: Applied ICD-11 classification for accurate disease indexing
+- 📊 **Data Analysis**: Processed healthcare data for informed decision-making
+- 📈 **System Reporting**: Generated monthly reports for Kenya Health Information System
+- 🔧 **Technical Support**: Troubleshot health information systems and provided IT assistance
 
-**Skills Gained:**
-- Health Information Management (HIS, EMR, EHR)
-- Medical Coding (ICD-11) & Healthcare Data Analysis
-- System Administration & Technical Support
-- Digital Health & Telemedicine Implementation
+**💪 Skills & Competencies Developed:**
+- **Health Information Management**: Proficiency in HIS, EMR, and EHR systems
+- **Medical Coding Excellence**: Advanced knowledge of ICD-11 classification standards
+- **Healthcare Data Analytics**: Statistical analysis and healthcare metrics interpretation
+- **System Administration**: Database management and system troubleshooting
+- **Digital Health Innovation**: Exposure to telemedicine and digital health solutions
+
+**🏆 Professional Recognition:**
+> *"During the time I have worked with him, he has portrayed commitment, hard work, determination, dedication and obedience. He also relates well with colleagues and clients."*
+>
+> **— Benson K. Wahome, Health Records Officer In-charge**
 
 </details>
 
