@@ -41,7 +41,7 @@ timeline
 
     2022      : Started University
               : BSc. Health Records & Informatics
-              : Jomo Kenyatta University (JKUAT)
+              : Jomo Kenyatta University Of Agriculture and Technology (JKUAT)
 
     2024      : First Attachment
               : Health Informatics Intern
@@ -67,8 +67,8 @@ timeline
 |:---:|:---:|:---:|:---:|
 | 🏥 **Health Informatics Intern** | May - Aug 2025 | Naivasha Subcounty Hospital | Advanced Healthcare Systems |
 | 🏥 **Health Informatics Intern** | May - July 2024 | Naivasha County Referral Hospital | Healthcare Data Systems |
-| 🎓 **BSc. Student** | 2022 - 2026 | JKUAT | Health Records & Informatics |
-| 🏫 **KCSE Graduate** | 2018 - 2022 | Kanjuri High School | Science Foundation |
+| 🎓 **Undergraduate** |September 2022 - 2026 | JKUAT | Health Records & Informatics |
+| 🏫 **KCSE** | 2018 - 2022 | Kanjuri High School | Science Foundation |
 
 </div>
 
@@ -351,6 +351,6 @@ graph LR
 
 <div align="center">
 
-**💡 "Innovation in healthcare through code - let's build the future together!" 💡**
+**💡 "Innovation in healthcare through code - let's build the future together" 💡**
 
 </div>
