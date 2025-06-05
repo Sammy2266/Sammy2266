@@ -238,7 +238,7 @@ timeline
 </td>
 <td width="33%">
 
-#### [💊 AfiaTrack - Health Management](https://afiatrack.vercel.app/){:target="_blank"} 
+#### [💊 AfiaTrack - Health Management](https://afiatrack.vercel.app/)
 **Comprehensive personal health dashboard**
 - 📊 Vital signs monitoring
 - 📅 Appointment scheduling
@@ -248,8 +248,7 @@ timeline
 </td>
 <td width="33%">
 
-#### [AI powered Clinical Decision Support System](https://cdss1.vercel.app/){:target="_blank"} 
-**Comprehensive clinical decision support system**
+#### [AI powered Clinical Decision Support System](https://cdss1.vercel.app/)
 - 📊 Patient Management
 - 📅Treatment plans generation
 - 💊 Drug interactions analysis
