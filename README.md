@@ -134,6 +134,8 @@ timeline
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![SPSS](https://img.shields.io/badge/spss-239120?style=for-the-badge&logo=spss&logoColor=white)
+![Excel](https://img.shields.io/badge/excel-239120?style=for-the-badge&logo=excel&logoColor=white)
 
 </div>
 
