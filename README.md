@@ -179,7 +179,7 @@ timeline
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy2266&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&text_color=ffffff" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sammy2266&repo=FindHosi&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&text_color=ffffff" alt="FindHosi Repo" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sammy2266&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&icon_color=E59F32&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=Detailed%20GitHub%20Stats" alt="Detailed GitHub Stats" />
 </div>
 
 ## 🎯 Areas of Expertise
