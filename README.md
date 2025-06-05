@@ -295,10 +295,10 @@ timeline
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://sammymacharia.netlify.app/)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sammy2266)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-macharia)
-[![X](https://img.shields.io/badge/🐦_X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ryzen_rider)
-[![Instagram](https://img.shields.io/badge/📷_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sammy.defi)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammymuchai44@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+254714552335)
+[![X](https://img.shields.io/badge/_X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ryzen_rider)
+[![Instagram](https://img.shields.io/badge/_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sammy.defi)
+[![Email](https://img.shields.io/badge/📧-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammymuchai44@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+254714552335)
 
 </div>
 
