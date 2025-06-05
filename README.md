@@ -44,12 +44,12 @@ timeline
               : Jomo Kenyatta University Of Agriculture and Technology (JKUAT)
 
     2024      : First Attachment
-              : Health Informatics Intern
+              : Health Informatics Attachee
               : Naivasha County Referral Hospital
               : Real-world healthcare experience
 
     2025      : Second Attachment
-              : Health Informatics Intern
+              : Health Informatics Attachee
               : Naivasha County Refferal Hospital
               : Advanced healthcare systems
 
@@ -65,8 +65,8 @@ timeline
 
 | 🎯 **Experience** | 📅 **Duration** | 🏢 **Organization** | 💡 **Focus Area** |
 |:---:|:---:|:---:|:---:|
-| 🏥 **Health Informatics Intern** | May - Aug 2025 | Naivasha Subcounty Hospital | Advanced Healthcare Systems |
-| 🏥 **Health Informatics Intern** | May - July 2024 | Naivasha County Referral Hospital | Healthcare Data Systems |
+| 🏥 **Health Informatics Attachee** | May - Aug 2025 | Naivasha Subcounty Hospital | Advanced Healthcare Systems |
+| 🏥 **Health Informatics Attachee** | May - July 2024 | Naivasha County Referral Hospital | Healthcare Data Systems |
 | 🎓 **Undergraduate** |September 2022 - 2026 | JKUAT | Health Records & Informatics |
 | 🏫 **KCSE** | 2018 - 2022 | Kanjuri High School | Science Foundation |
 
