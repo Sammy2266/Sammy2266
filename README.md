@@ -246,6 +246,17 @@ timeline
 - 📈 Health analytics & insights
 
 </td>
+<td width="50%">
+
+#### [AI powered Clinical Decision Support System](https://cdss1.vercel.app/)
+**Comprehensive clinical decision support system**
+- 📊 Patient Management
+- 📅Treatment plans generation
+- 💊 Drug interactions analysis
+- 🤖AI powered Diagnosis assistant
+- 📈 Health analytics & insights
+
+</td>
 </tr>
 </table>
 
@@ -296,9 +307,9 @@ timeline
 [![GitHub](https://img.shields.io/badge/💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sammy2266)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-macharia)
 [![X](https://img.shields.io/badge/_X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ryzen_rider)
-[![Instagram](https://img.shields.io/badge/_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sammy.defi)
-[![Email](https://img.shields.io/badge/📧-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammymuchai44@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+254714552335)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sammy.defi)
+[![Email](https://img.shields.io/badge/📧Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammymuchai44@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+254714552335)
 
 </div>
 
