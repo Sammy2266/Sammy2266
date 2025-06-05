@@ -68,7 +68,7 @@ timeline
 | 🏥 **Health Informatics Attachee** | May - Aug 2025 | Naivasha Subcounty Hospital | Advanced Healthcare Systems |
 | 🏥 **Health Informatics Attachee** | May - July 2024 | Naivasha County Referral Hospital | Healthcare Data Systems |
 | 🎓 **Undergraduate** |September 2022 - 2026 | JKUAT | Health Records & Informatics |
-| 🏫 **KCSE** | 2018 - 2022 | Kanjuri High School | Science Foundation |
+| 🏫 **KCSE** | January 2018 - March 2022 | Kanjuri High School | Science & Mathematics Foundation |
 
 </div>
 
