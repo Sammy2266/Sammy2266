@@ -53,7 +53,7 @@ timeline
               : Naivasha Sub-County Referral Hospital
               : Advanced healthcare systems & leadership
 
-    2026      : Graduation & Career Launch
+    2027      : Graduation & Career Launch
               : BSc. Health Records & Informatics
               : Healthcare Tech Innovation
               : Building Future Solutions
@@ -67,7 +67,7 @@ timeline
 |:---:|:---:|:---:|:---:|:---:|
 | 🏥 **Health Informatics Attachee** | May - Aug 2025 | Naivasha Sub-County Referral Hospital | Advanced Healthcare Systems | **COMPLETED** |
 | 🏥 **Health Informatics Attachee** | May - July 2024 | Naivasha Sub-County Referral Hospital | Healthcare Data Systems | **COMPLETED** |
-| 🎓 **Undergraduate** |September 2022 - 2026 | JKUAT | Health Records & Informatics | **IN PROGRESS** |
+| 🎓 **Undergraduate** |September 2022 - 2027 | JKUAT | Health Records & Informatics | **IN PROGRESS** |
 | 🏫 **KCSE** | January 2018 - March 2022 | Kanjuri High School | Science & Mathematics Foundation | **COMPLETED** |
 
 </div>
@@ -401,15 +401,14 @@ graph LR
 
 </div>
 
-## 🚀 2025-2026 Goals
+## 🚀 2026-2027 Goals
 
-- [x] 🏥 Complete second attachment at Naivasha Sub-County Hospital (May-Aug 2025) 
-- [ ] 🎓 Graduate with BSc. in Health Records and Informatics (2026)
+- [ ] 🎓 Graduate with BSc. in Health Records and Informatics (2027)
 - [ ] 📊 Master advanced ML algorithms for healthcare applications
 - [ ] 🌐 Contribute to open-source healthcare projects
 - [ ] 📱 Develop comprehensive mobile health applications
 - [ ] 🏆 Obtain AWS/Google Cloud certifications
-- [ ] 🚀 Launch major healthcare tech startup or project
+- [x] 🚀 Launch major healthcare tech startup or project
 - [ ] 📝 Complete final year research project in medical informatics
 
 ---
