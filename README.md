@@ -14,20 +14,16 @@
 
 I'm a **Software Developer** with a particular interest in **Data Science** and **Medical Informatics**. Currently pursuing my BSc. in Health Records and Informatics at **Jomo Kenyatta University of Agriculture and Technology** (2022-2027). I'm passionate about leveraging cutting-edge technology to solve complex problems in healthcare and data-driven applications.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=Sammy2266&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" />
-</div>
+###  Quick Facts
+- **Currently working on**: Healthcare technology solutions and AI-powered diagnostic tools
+- **Learning**: Advanced Machine Learning, Blockchain (Solidity), and Cloud Architecture
+- **Passion**: Turning complex healthcare data into actionable insights
+- **Goal**: Contributing to innovative solutions in medical informatics and digital health
+- **Experience**: Completed dual attachments at Naivasha Sub-County Referral Hospital
+- **Contact**: **sammymuchai44@gmail.com**
+- **Phone**: **+254714552335**
 
-### 🎯 Quick Facts
-- 🔭 **Currently working on**: Healthcare technology solutions and AI-powered diagnostic tools
-- 🌱 **Learning**: Advanced Machine Learning, Blockchain (Solidity), and Cloud Architecture
-- 💡 **Passion**: Turning complex healthcare data into actionable insights
-- 🎯 **Goal**: Contributing to innovative solutions in medical informatics and digital health
-- 🏥 **Experience**: Completed dual attachments at Naivasha Sub-County Referral Hospital
-- 📧 **Contact**: **sammymuchai44@gmail.com**
-- 📱 **Phone**: **+254714552335**
-
-## 💼 Professional Journey
+## Professional Journey
 
 <div align="center">
 
@@ -90,15 +86,15 @@ timeline
 <details>
 <summary>🔍 <strong>Click to expand Second Attachment details (May-Aug 2025)</strong></summary>
 
-**🎯 Advanced Responsibilities:**
-- 🏆 **Team Leadership**: Led a team of junior attachees and guided new interns
-- 🔄 **System Optimization**: Implemented advanced workflows for patient data management
-- 🤖 **AI Integration**: Deployed machine learning models for predictive healthcare analytics
-- 📊 **Strategic Reporting**: Created comprehensive monthly reports with data-driven insights
-- 🛡️ **Data Security**: Enhanced cybersecurity protocols for patient information systems
-- 🎓 **Training & Development**: Conducted workshops on modern health information systems
+**Advanced Responsibilities:**
+- **Team Leadership**: Led a team of junior attachees and guided new interns
+- **System Optimization**: Implemented advanced workflows for patient data management
+- **AI Integration**: Deployed machine learning models for predictive healthcare analytics
+- **Strategic Reporting**: Created comprehensive monthly reports with data-driven insights
+- **Data Security**: Enhanced cybersecurity protocols for patient information systems
+- **Training & Development**: Conducted workshops on modern health information systems
 
-**💪 Advanced Skills & Competencies:**
+**Advanced Skills & Competencies:**
 - **Healthcare AI Implementation**: Deployed ML models for diagnostic support systems
 - **Advanced Data Analytics**: Statistical modeling and healthcare trend analysis
 - **Leadership & Management**: Team coordination and project management
@@ -106,18 +102,18 @@ timeline
 - **Cybersecurity**: Healthcare data protection and HIPAA compliance implementation
 - **Innovation Leadership**: Led digital transformation initiatives
 
-**🏆 Professional Recognition & Achievements:**
-- 🥇 **Outstanding Performance Award** for exceptional contribution to hospital digitization
-- 📈 **System Efficiency**: Improved patient data processing speed by 30%
-- 🛡️ **Security Excellence**: Implemented zero-breach security protocols
-- 👥 **Mentorship Impact**: Successfully trained 5+ junior staff members
+**Professional Recognition & Achievements:**
+- **Outstanding Performance Award** for exceptional contribution to hospital digitization
+- **System Efficiency**: Improved patient data processing speed by 30%
+- **Security Excellence**: Implemented zero-breach security protocols
+- **Mentorship Impact**: Successfully trained 5+ junior staff members
 
-**💼 Official Professional Feedback & Recognition:**
+**Official Professional Feedback & Recognition:**
 > *"Throughout his service, Samuel consistently exhibited a strong work ethic, dedication, and a high level of discipline. He is dependable, committed, and demonstrates a proactive approach to his duties. He maintains excellent interpersonal relationships with both colleagues and patients, which enhances teamwork and service delivery. Based on his performance and conduct, I am confident that he has the capacity to excel in any healthcare or professional setting he may choose to pursue. I highly recommend him without reservation."*
 >
 > **— Maryanne Ndungu, Health Records Officer In-charge**
 
-**💼 Key Projects Completed:**
+**Key Projects Completed:**
 1. **AI-Powered Diagnostic Support System**: Developed ML algorithms for early disease detection
 2. **Integrated Health Information Dashboard**: Created real-time hospital management system
 3. **Cybersecurity Enhancement Program**: Implemented advanced data protection measures
@@ -139,17 +135,17 @@ timeline
 </div>
 
 <details>
-<summary>🔍 <strong>Click to expand First Attachment details (May-July 2024)</strong></summary>
+<summary><strong>Click to expand First Attachment details (May-July 2024)</strong></summary>
 
-**🎯 Foundation Responsibilities:**
-- 📋 **Patient Registration**: Streamlined admission procedures and patient data entry
-- 🏷️ **Medical Coding**: Applied ICD-11 classification for accurate disease indexing
-- 📊 **Data Analysis**: Processed healthcare data for informed decision-making
-- 📈 **System Reporting**: Generated monthly reports for Kenya Health Information System
-- 🔧 **Technical Support**: Troubleshot health information systems and provided IT assistance
-- 💻 **Database Management**: Maintained patient records and healthcare databases
+**Foundation Responsibilities:**
+- **Patient Registration**: Streamlined admission procedures and patient data entry
+- **Medical Coding**: Applied ICD-11 classification for accurate disease indexing
+- **Data Analysis**: Processed healthcare data for informed decision-making
+- **System Reporting**: Generated monthly reports for Kenya Health Information System
+- **Technical Support**: Troubleshot health information systems and provided IT assistance
+- **Database Management**: Maintained patient records and healthcare databases
 
-**💪 Foundation Skills & Competencies:**
+**Foundation Skills & Competencies:**
 - **Health Information Management**: Proficiency in HIS, EMR, and EHR systems
 - **Medical Coding Excellence**: Advanced knowledge of ICD-11 classification standards
 - **Healthcare Data Analytics**: Statistical analysis and healthcare metrics interpretation
@@ -157,31 +153,31 @@ timeline
 - **Digital Health Innovation**: Exposure to telemedicine and digital health solutions
 - **Professional Communication**: Patient interaction and interdisciplinary collaboration
 
-**🏆 Professional Recognition:**
+**Professional Recognition:**
 > *"During the time I have worked with him, he has portrayed commitment, hard work, determination, dedication and obedience. He also relates well with colleagues and clients."*
 >
 > **— Benson K. Wahome, Health Records Officer In-charge**
 
-**📈 Key Achievements:**
-- ✅ **100% Accuracy**: Maintained perfect record in ICD-11 disease coding
-- 📊 **Data Quality**: Improved patient record completeness by 25%
-- 🔧 **System Support**: Resolved 95% of technical issues within 24 hours
-- 🤝 **Team Integration**: Seamlessly collaborated with medical and administrative staff
+**Key Achievements:**
+- **100% Accuracy**: Maintained perfect record in ICD-11 disease coding
+- **Data Quality**: Improved patient record completeness by 25%
+- **System Support**: Resolved 95% of technical issues within 24 hours
+- **Team Integration**: Seamlessly collaborated with medical and administrative staff
 
 </details>
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
-### 🧑‍💻 Programming Languages
+### Programming Languages
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white)
+![R(Learning)](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Solidity(Learning)](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white)
 
 </div>
 
@@ -220,7 +216,6 @@ timeline
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-FFCA28?style=for-the-badge&logo=supabase&logoColor=black)
 
@@ -252,7 +247,7 @@ timeline
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sammy2266&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&icon_color=E59F32&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=Complete%20Contribution%20Overview" alt="Complete GitHub Overview" />
 </div>
 
-## 🎯 Areas of Expertise
+## Areas of Expertise
 
 <table align="center">
 <tr>
@@ -278,7 +273,7 @@ timeline
 </td>
 </tr>
 </table>
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sammy2266&theme=react-dark&bg_color=0D1117&color=E59F32&line=E59F32&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -288,13 +283,11 @@ timeline
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sammy2266&theme=radical" alt="Profile Summary" />
 </div>
 
-## 🌐 Connect & Collaborate
+## Connect & Collaborate
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://sammymacharia.netlify.app/)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sammy2266)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-macharia)
 [![X](https://img.shields.io/badge/_X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ryzen_rider)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sammy.defi)
 [![Email](https://img.shields.io/badge/📧Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammymuchai44@gmail.com)
@@ -308,7 +301,7 @@ timeline
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Data%20is%20the%20new%20oil,%20but%20like%20oil,%20it%20has%20to%20be%20refined%20to%20be%20useful&author=Clive%20Humby" alt="Quote" />
 </div>
 
-## 🎓 Current Learning Path
+## Current Learning Path
 
 <div align="center">
 
@@ -330,14 +323,14 @@ graph LR
 
 </div>
 
-## 🚀 2026-2027 Goals
+## 2026-2027 Goals
 
 - [ ] 🎓 Graduate with BSc. in Health Records and Informatics (2027)
 - [ ] 📊 Master advanced ML algorithms for healthcare applications
 - [ ] 🌐 Contribute to open-source healthcare projects
 - [ ] 📱 Develop comprehensive mobile health applications
 - [ ] 🏆 Obtain AWS/Google Cloud certifications
-- [x] 🚀 Launch major healthcare tech startup or project
+- [x] 🚀 Launch major tech startup or project
 - [ ] 📝 Complete final year research project in medical informatics
 
 ---
@@ -353,6 +346,6 @@ graph LR
 
 <div align="center">
 
-**💡 "Innovation in healthcare through code - let's build the future together" 💡**
+** "Innovation in healthcare through code - let's build the future together" **
 
 </div>
