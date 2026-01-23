@@ -44,7 +44,7 @@ timeline
               : Naivasha Sub-County Referral Hospital
               : Real-world healthcare experience
 
-    2025      : Second Attachment ✅ COMPLETED
+    2025      : Second Attachment  COMPLETED
               : Health Informatics Attachee
               : Naivasha Sub-County Referral Hospital
               : Advanced healthcare systems & leadership
@@ -346,6 +346,6 @@ graph LR
 
 <div align="center">
 
-** "Innovation in healthcare through code - let's build the future together" **
+Innovation in healthcare through code - let's build the future together
 
 </div>
