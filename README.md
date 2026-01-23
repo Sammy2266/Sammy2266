@@ -12,7 +12,7 @@
 
 > **"Bridging Healthcare and Technology, One Line of Code at a Time"**
 
-I'm a **Software Developer** specializing in **Data Science** and **Medical Informatics**. Currently pursuing my BSc. in Health Records and Informatics at **Jomo Kenyatta University of Agriculture and Technology** (2022-2026). I'm passionate about leveraging cutting-edge technology to solve complex problems in healthcare and data-driven applications.
+I'm a **Software Developer** with a particular interest in **Data Science** and **Medical Informatics**. Currently pursuing my BSc. in Health Records and Informatics at **Jomo Kenyatta University of Agriculture and Technology** (2022-2027). I'm passionate about leveraging cutting-edge technology to solve complex problems in healthcare and data-driven applications.
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/api/?username=Sammy2266&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" />
@@ -278,77 +278,6 @@ timeline
 </td>
 </tr>
 </table>
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🏥 Healthcare Solutions
-
-<table>
-<tr>
-<td width="33%">
-
-#### [🏥 FindHosi - Hospital Finder](https://findhosi2.vercel.app/)
-**Location-based healthcare discovery platform**
-- 📍 Real-time geolocation integration
-- 🗺️ Interactive mapping interface
-- 🏥 Comprehensive hospital database
-- 📱 Mobile-responsive design
-
-</td>
-<td width="33%">
-
-#### [💊 AfiaTrack - Health Management](https://afiatrack.vercel.app/)
-**Comprehensive personal health dashboard**
-- 📊 Vital signs monitoring
-- 📅 Appointment scheduling
-- 💊 Medication management
-- 📈 Health analytics & insights
-
-</td>
-<td width="33%">
-
-#### [AI powered Clinical Decision Support System](https://cdss1.vercel.app/)
-- 📊 Patient Management
-- 📅Treatment plans generation
-- 💊 Drug interactions analysis
-- 🤖AI powered Diagnosis assistant
-- 📈 Health analytics & insights
-
-</td>
-</tr>
-</table>
-
-### 🎬 Web Applications
-
-<table>
-<tr>
-<td width="50%">
-
-#### [🎬 Phi5ive - Movie Showcase](https://phifive.vercel.app/)
-**Modern movie discovery platform**
-- 🎥 Latest movie releases
-- 🔍 Advanced search functionality
-- 📱 Responsive design
-- 🎬 Trailer integration
-
-</td>
-<td width="50%">
-
-#### [🔐 Password Monster](https://passwordmonster.vercel.app/)
-**Advanced security tool**
-- 🔒 Cryptographically secure passwords
-- ⚙️ Customizable parameters
-- 📋 One-click copy functionality
-- 🛡️ Security best practices
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ## 📈 Contribution Activity
 
 <div align="center">
