@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samuel Macharia
+# Hi, I'm Samuel Macharia
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=E59F32&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;Medical+Informatics+Specialist+%F0%9F%A9%BA;Healthcare+Tech+Innovator+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-## 🚀 About Me
+## About Me
 
 > **"Bridging Healthcare and Technology, One Line of Code at a Time"**
 
@@ -59,32 +59,32 @@ timeline
 
 <div align="center">
 
-| 🎯 **Experience** | 📅 **Duration** | 🏢 **Organization** | 💡 **Focus Area** | ✅ **Status** |
+|  **Experience** |  **Duration** |  **Organization** |  **Focus Area** |  **Status** |
 |:---:|:---:|:---:|:---:|:---:|
-| 🏥 **Health Informatics Attachee** | May - Aug 2025 | Naivasha Sub-County Referral Hospital | Advanced Healthcare Systems | **COMPLETED** |
-| 🏥 **Health Informatics Attachee** | May - July 2024 | Naivasha Sub-County Referral Hospital | Healthcare Data Systems | **COMPLETED** |
-| 🎓 **Undergraduate** |September 2022 - 2027 | JKUAT | Health Records & Informatics | **IN PROGRESS** |
-| 🏫 **KCSE** | January 2018 - March 2022 | Kanjuri High School | Science & Mathematics Foundation | **COMPLETED** |
+|  **Health Informatics Attachee** | May - Aug 2025 | Naivasha Sub-County Referral Hospital | Advanced Healthcare Systems | **COMPLETED** |
+|  **Health Informatics Attachee** | May - July 2024 | Naivasha Sub-County Referral Hospital | Healthcare Data Systems | **COMPLETED** |
+|  **Undergraduate** |September 2022 - 2027 | JKUAT | Health Records & Informatics | **IN PROGRESS** |
+|  **KCSE** | January 2018 - March 2022 | Kanjuri High School | Science & Mathematics Foundation | **COMPLETED** |
 
 </div>
 
-### 🏥 **Featured Experience: Health Informatics Professional**
+###  **Featured Experience: Health Informatics Professional**
 
-#### 🌟 **Second Attachment (May - August 2025)** ✅ **COMPLETED**
+####  **Second Attachment (May - August 2025)**  **COMPLETED**
 *Naivasha Sub-County Referral Hospital • Advanced Healthcare Systems Specialist*
 
 <div align="center">
 
 | **Leadership Roles** | **Advanced Technical Skills** | **Innovation Impact** |
 |:---:|:---:|:---:|
-| 👥 Team Leadership & Mentoring | 🤖 AI-Assisted Diagnostics | 📈 30% Efficiency Improvement |
-| 📋 Quality Assurance Programs | 🔗 System Integration | 🏥 Digital Health Transformation |
-| 🎯 Strategic Planning | 📊 Predictive Analytics | 🛡️ Data Security Enhancement |
+| Team Leadership & Mentoring |  AI-Assisted Diagnostics |  30% Efficiency Improvement |
+|  Quality Assurance Programs |  System Integration |  Digital Health Transformation |
+|  Strategic Planning |  Predictive Analytics |  Data Security Enhancement |
 
 </div>
 
 <details>
-<summary>🔍 <strong>Click to expand Second Attachment details (May-Aug 2025)</strong></summary>
+<summary> <strong>Click to expand Second Attachment details (May-Aug 2025)</strong></summary>
 
 **Advanced Responsibilities:**
 - **Team Leadership**: Led a team of junior attachees and guided new interns
@@ -121,16 +121,16 @@ timeline
 
 </details>
 
-#### 🌟 **First Attachment (May - July 2024)** ✅ **COMPLETED**
+####  **First Attachment (May - July 2024)**  **COMPLETED**
 *Naivasha Sub-County Referral Hospital • Foundation Healthcare Systems*
 
 <div align="center">
 
 | **Core Responsibilities** | **Technical Skills Gained** | **Impact Created** |
 |:---:|:---:|:---:|
-| 📋 Patient Data Management | 🏥 EHR/EMR Systems | 📊 Improved Data Accuracy |
-| 🏷️ ICD-11 Disease Coding | 📈 KHIS Reporting | 🔧 System Optimization |
-| 📊 Healthcare Analytics | 💻 IT Support | 🌐 Digital Health Foundation |
+|  Patient Data Management |  EHR/EMR Systems |  Improved Data Accuracy |
+|  ICD-11 Disease Coding |  KHIS Reporting | System Optimization |
+|  Healthcare Analytics |  IT Support |  Digital Health Foundation |
 
 </div>
 
@@ -181,7 +181,7 @@ timeline
 
 </div>
 
-### 📊 Data Science & Analytics
+###  Data Science & Analytics
 <div align="center">
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -196,7 +196,7 @@ timeline
 
 </div>
 
-### 🌐 Web Development
+###  Web Development
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -210,7 +210,7 @@ timeline
 
 </div>
 
-### 🗄️ Databases & Cloud
+###  Databases & Cloud
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -221,7 +221,7 @@ timeline
 
 </div>
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -235,7 +235,7 @@ timeline
 
 </div>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sammy2266&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&icon_color=E59F32&text_color=ffffff&count_private=true&include_all_commits=true" alt="Samuel's GitHub Stats" />
@@ -325,13 +325,13 @@ graph LR
 
 ## 2026-2027 Goals
 
-- [ ] 🎓 Graduate with BSc. in Health Records and Informatics (2027)
-- [ ] 📊 Master advanced ML algorithms for healthcare applications
-- [ ] 🌐 Contribute to open-source healthcare projects
-- [ ] 📱 Develop comprehensive mobile health applications
-- [ ] 🏆 Obtain AWS/Google Cloud certifications
-- [x] 🚀 Launch major tech startup or project
-- [ ] 📝 Complete final year research project in medical informatics
+- [ ]  Graduate with BSc. in Health Records and Informatics (2027)
+- [ ]  Master advanced ML algorithms for healthcare applications
+- [ ]  Contribute to open-source healthcare projects
+- [ ]  Develop comprehensive mobile health applications
+- [ ]  Obtain AWS/Google Cloud certifications
+- [x]  Launch major tech startup or project
+- [ ]  Complete final year research project in medical informatics
 
 ---
 
