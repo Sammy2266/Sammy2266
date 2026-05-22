@@ -62,7 +62,7 @@ timeline
 
 ---
 
-## 🧰 Technical Arsenal
+## 🧰 Tech Arsenal
 
 ---
 
