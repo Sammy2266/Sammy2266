@@ -1,6 +1,3 @@
-Here is the completely filled out, production-ready markdown code for your GitHub profile. You can copy this code directly and paste it into your `README.md` file:
-
-```markdown
 # Hi, I'm Samuel Macharia 👋
 
 <div align="center">
