@@ -238,13 +238,11 @@ timeline
 ##  GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sammy2266&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&icon_color=E59F32&text_color=ffffff&count_private=true&include_all_commits=true" alt="Samuel's GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sammy2266&theme=radical&hide_border=true&background=0D1117&stroke=E59F32&ring=E59F32&fire=E59F32&currStreakLabel=E59F32" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy2266&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&text_color=ffffff&count_private=true&include_all_commits=true" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sammy2266&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E59F32&icon_color=E59F32&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=Complete%20Contribution%20Overview" alt="Complete GitHub Overview" />
+ 
 </div>
 
 ## Areas of Expertise
