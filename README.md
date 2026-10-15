@@ -10,7 +10,7 @@
 
 ### About Me
 
-I'm a Software Developer with a particular interest in Data Science and Medical Informatics. Currently pursuing my BSc. in Health Records and Informatics at Jomo Kenyatta University of Agriculture and Technology (2022-2027). I'm passionate about leveraging cutting-edge technology to solve complex problems in healthcare and data-driven applications.
+I'm a Software Developer with a particular interest in Data Driven Applications and Medical Informatics. Currently pursuing my BSc. in Health Records and Informatics at Jomo Kenyatta University of Agriculture and Technology (2022-2027). I'm passionate about leveraging cutting-edge technology to solve complex problems in healthcare and data-driven applications.
 
 ### Tech Stack
 
